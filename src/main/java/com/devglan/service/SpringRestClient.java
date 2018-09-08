@@ -1,12 +1,12 @@
 package com.devglan.service;
 
+import com.devglan.model.AuthTokenInfo;
 import com.devglan.model.User;
 import org.apache.commons.codec.binary.Base64;
 import org.springframework.http.*;
 import org.springframework.util.Assert;
 import org.springframework.web.client.RestTemplate;
 
-import java.net.URI;
 import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;

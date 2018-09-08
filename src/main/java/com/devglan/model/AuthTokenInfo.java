@@ -1,4 +1,4 @@
-package com.devglan.service;
+package com.devglan.model;
 
 public class AuthTokenInfo {
 
